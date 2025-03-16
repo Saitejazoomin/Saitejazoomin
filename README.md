@@ -12,7 +12,7 @@
 <a href="https://twitter.com/saitejazoomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saitejazoomin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-teja-04ab49312" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Teja" height="30" width="40" /></a>
-<a href="https://instagram.com/saitejazzomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saitejazzomin" height="30" width="40" /></a>
+<a href="https://instagram.com/saitejazoomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saitejazzomin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/drsaitejaprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drsaitejaprince" height="30" width="40" /></a>
 </p>
 
